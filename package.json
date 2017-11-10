@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-replace-html-vars",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A rollup.js plugin to replace variables in html files",
   "main": "index.js",
   "scripts": {
