@@ -1,9 +1,9 @@
-import replace from 'replace-in-file';
+var replace = require('replace-in-file');
 
-export default function replaceHtmlVars( options = {} ) {
+module.exports = function replaceHtmlVars( options ) {
 
     try {
-        const changes = replace.sync(options);
+        var changes = replace.sync(options);
         console.log('\n\nRunning replaceHtmlVars for files:', changes.join(', '), '\n\n');
     }
     catch (error) {

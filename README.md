@@ -125,4 +125,4 @@ plugins: [
 ## License
 (MIT License)
 
-Copyright 2017, [Andreas Jacob](https://cordobo.com/)
+Copyright 2017, [Andreas Jacob](http://cordobo.com/)
