@@ -1,5 +1,6 @@
-# rollup-plugin-replace-html-vars
-A rollup.js plugin to replace variables in html, based on replace-in-file
+# Replace variables in HTML with rollup
+
+A rollup.js plugin to replace variables in html files during the build process, based on replace-in-file. Make a single replacement or multiple replacements at once.
 
 
 ## Installation
