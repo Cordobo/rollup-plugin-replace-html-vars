@@ -1,0 +1,26 @@
+{
+  "name": "rollup-plugin-replace-html-vars",
+  "version": "1.0.0",
+  "description": "A rollup.js plugin to replace variables in html files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cordobo/rollup-plugin-replace-html-vars.git"
+  },
+  "keywords": [
+    "rollupjs",
+    "rollup-plugin"
+  ],
+  "author": "Andreas Jacob, cordobo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cordobo/rollup-plugin-replace-html-vars/issues"
+  },
+  "homepage": "https://github.com/Cordobo/rollup-plugin-replace-html-vars#readme",
+  "dependencies": {
+    "replace-in-file": "^3.0.0"
+  }
+}
